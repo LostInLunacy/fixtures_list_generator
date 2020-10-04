@@ -10,5 +10,6 @@ It generates a list of fixtures for teams of your choice and prints them to the 
 `python main.py <path_to_your_text_file>`
 
 #### Credits
-Gaucho's video on YouTube helped me a lot to get started
-His code is in C and doesn't appear to work for all numbers of even teams, so I created this Python app.
+Gaucho's video on YouTube helped me a lot to get started.
+His code is in C and doesn't appear to work for all numbers of even teams, so I created this Python app
+with my own sorting algorithm.
