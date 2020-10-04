@@ -1,0 +1,8 @@
+Soccer
+Rugby
+Tennis
+American Football
+Golf
+Hockey
+Athletics
+Baseball
