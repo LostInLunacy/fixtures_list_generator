@@ -11,4 +11,4 @@ It generates a list of fixtures for teams of your choice and prints them to the 
 
 #### Credits
 Gaucho's video on YouTube helped me a lot to get started
-His code is in C and doesn't appear to work for all numbers of even teams, so I created this.
+His code is in C and doesn't appear to work for all numbers of even teams, so I created this Python app.
