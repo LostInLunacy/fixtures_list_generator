@@ -4,7 +4,7 @@ class Fixture():
     """ An individual fixture. """
 
     def __init__(self, home, away):
-        if not any([type(x) is str for x in (home, away)]):
+        if not all([type(x) is str for x in (home, away)]):
             raise TypeError("home and away must both be of type str")
         self.home = home
         self.away = away
